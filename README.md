@@ -175,7 +175,3 @@ integrated-proj/
 This project was built by [Pavankumar Kurapati](https://www.linkedin.com/in/pavankumar-kurapati/).
 
 For any questions or contributions, feel free to reach out on LinkedIn or open a GitHub issue.
-
----
-
-Feel free to customize the README file further to suit your needs!
